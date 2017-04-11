@@ -1,0 +1,2 @@
+# git-zkouska
+Pouze zkouška
